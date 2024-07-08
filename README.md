@@ -17,7 +17,7 @@ pip install .
 
 
 
-若此步出现错误一般是由于众所周知的原因无法下载外网资源，可设置下载镜像
+若此步出现错误一般是由于网络原因无法下载外网资源，可设置下载镜像
 
 ```shell
 pip install . -i https://pypi.tuna.tsinghua.edu.cn/simple
