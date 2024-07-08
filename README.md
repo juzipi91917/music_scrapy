@@ -1,7 +1,5 @@
 # HTT Music Scraper
 
-`让你音乐自由~`
-
 
 
 ## 安装
